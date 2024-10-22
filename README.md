@@ -63,7 +63,7 @@ The Random Forest Regressor showed promising results in predicting the Remaining
 These metrics indicate that the model performs well, with a high R-squared value suggesting good predictive power.
 
 ### Visualizations
-(Note: The following graphs should be generated and included in your GitHub repository)
+
 
 1. **Feature Importance Plot**: A bar chart showing the importance of each sensor and operational setting in predicting RUL.
 2. **Actual vs Predicted RUL Scatter Plot**: Comparing the model's predictions against actual RUL values.
